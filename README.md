@@ -68,7 +68,7 @@ This script is designed to be added to a toolbox (.tbx) and used as a script too
   - Height to **centimeters** from feet/inches
   - Weight to **kilograms** from pounds
 
-** How to use: **
+**How to use:**
 - In ArcGIS Pro, create or open a toolbox (.tbx).
 - Right-click the toolbox > Add > Script.
 - Link it to nhl_player_filter_tool.py.
